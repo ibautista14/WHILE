@@ -1,0 +1,2 @@
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppNotasEstudiantes\AppNotasEstudiantes\bin\Debug\AppNotasEstudiantes.exe.config
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppNotasEstudiantes\AppNotasEstudiantes\obj\Debug\AppNotasEstudiantes.csprojResolveAssemblyReference.cache

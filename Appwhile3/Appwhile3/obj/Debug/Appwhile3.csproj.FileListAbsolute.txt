@@ -1,0 +1,6 @@
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\Appwhile3\Appwhile3\bin\Debug\Appwhile3.exe.config
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\Appwhile3\Appwhile3\obj\Debug\Appwhile3.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\Appwhile3\Appwhile3\bin\Debug\Appwhile3.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\Appwhile3\Appwhile3\bin\Debug\Appwhile3.pdb
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\Appwhile3\Appwhile3\obj\Debug\Appwhile3.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\Appwhile3\Appwhile3\obj\Debug\Appwhile3.pdb

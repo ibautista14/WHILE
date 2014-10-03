@@ -1,0 +1,5 @@
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppwhileNvalores\AppwhileNvalores\bin\Debug\AppwhileNvalores.exe.config
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppwhileNvalores\AppwhileNvalores\bin\Debug\AppwhileNvalores.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppwhileNvalores\AppwhileNvalores\bin\Debug\AppwhileNvalores.pdb
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppwhileNvalores\AppwhileNvalores\obj\Debug\AppwhileNvalores.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppwhileNvalores\AppwhileNvalores\obj\Debug\AppwhileNvalores.pdb
